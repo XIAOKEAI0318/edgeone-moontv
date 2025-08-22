@@ -1,9 +1,7 @@
 {
   "homepage_password": "admin123",
- {
-    "cache_time": 9200,
-    "api_site": {
-        "api_1": {
+  "cache_time": 7200,
+   "api_1": {
             "name": "TV-1080资源",
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
